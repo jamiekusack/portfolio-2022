@@ -401,9 +401,9 @@ p {
 .project-details {
   width: 100%;
   background-image: linear-gradient(-225deg,
-      #cf0000 0%,
-      #ffffff 50%,
-      #67b1ac 100%);
+      #5c0000 0%,
+      #ff2121 50%,
+      #ccfffc 100%);
   padding: 1rem;
 }
 
