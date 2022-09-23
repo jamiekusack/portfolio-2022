@@ -70,7 +70,7 @@ html {
   --floral-white: #fffaf0;
   --background-color: #f5f5f5;
   --alt-background-color: black;
-  --text-selection-background-color: #555;
+  --text-selection-background-color: rgb(17, 88, 71);
   --base-color: 0;
   --color-lightest: hsla(var(--base-color), 1%, 85%, 100%);
   --color-light: hsla(var(--base-color), 1%, 75%, 100%);
