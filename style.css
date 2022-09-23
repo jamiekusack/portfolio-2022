@@ -367,7 +367,6 @@ p {
 .project-aside {
   width: 100%;
   color: white;
-  background: rgb(138, 22, 6);
   padding: 1rem;
   display: flex;
   flex-direction: column;
@@ -400,10 +399,6 @@ p {
 /* Main Project Image Area */
 .project-details {
   width: 100%;
-  background-image: linear-gradient(-225deg,
-      #5c0000 0%,
-      #ff2121 50%,
-      #ccfffc 100%);
   padding: 1rem;
 }
 

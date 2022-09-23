@@ -1,5 +1,5 @@
 :root {
-    --gradient: linear-gradient(45deg,#700e0e, #ff0000, hsl(0, 100%, 93%) , #ffffff,#5cf2c5, #006659);
+    --gradient: linear-gradient(45deg,#212121, #030303, hsl(0, 0%, 15%) , #3a3a3a,#000000, #1b1b1b);
   }
 
   .hero {
