@@ -90,7 +90,7 @@ body {
 }
 
 ::selection {
-  background: hotpink;
+  background: rgb(94, 8, 8);
 }
 
 /* Making all images responsive */
@@ -164,9 +164,9 @@ a:active {
 
 .navigation-arrow:active,
 .navigation-arrow:hover {
-  color: #5200FF;
+  color: #2a9ba3;
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #5200FF;
+  -webkit-text-stroke-color: #07352b;
 }
 
 .colored-link {
@@ -367,7 +367,7 @@ p {
 .project-aside {
   width: 100%;
   color: white;
-  background: orangered;
+  background: rgb(138, 22, 6);
   padding: 1rem;
   display: flex;
   flex-direction: column;
@@ -401,9 +401,9 @@ p {
 .project-details {
   width: 100%;
   background-image: linear-gradient(-225deg,
-      #ff057c 0%,
-      #8d0b93 50%,
-      #321575 100%);
+      #cf0000 0%,
+      #ffffff 50%,
+      #67b1ac 100%);
   padding: 1rem;
 }
 
