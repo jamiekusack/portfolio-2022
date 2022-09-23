@@ -12,8 +12,8 @@
   
   .stroke-shadow {
     color: #ffffff;
-    text-shadow: -2px 0 #005445, 0 -2px #7adac7, 2px 0 #7adac7, 0 2px #7adac7,
-      2px 2px #7adac7, -2px -2px #7adac7, -2px 2px #7adac7, 2px -2px #7adac7,
+    text-shadow: -2px 0 #005445, 0 -2px #005445, 2px 0 #005445, 0 2px #005445,
+      2px 2px #005445, -2px -2px #005445, -2px 2px #005445, 2px -2px #005445,
       6px 6px #7adac7;
   }
   
