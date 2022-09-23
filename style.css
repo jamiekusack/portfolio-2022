@@ -68,7 +68,7 @@ html {
   --alice-blue: #f0f8ff;
   --alabaster: #f2f0e6;
   --floral-white: #fffaf0;
-  --background-color: #f5f5f5;
+  --background-color: #000000;
   --alt-background-color: black;
   --text-selection-background-color: rgb(17, 88, 71);
   --base-color: 0;
@@ -241,10 +241,6 @@ p {
   min-height: 80vh;
   display: flex;
   flex-direction: column;
-  /* background: rgb(238, 174, 202);
-  background: radial-gradient(circle,
-      rgba(238, 174, 202, 1) 0%,
-      rgba(148, 187, 233, 1) 100%); */
 }
 
 .branding-navigation {
@@ -438,23 +434,17 @@ p {
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-  body {
-    background: var(--color-darkest);
-  }
+
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-  body {
-    background: var(--color-dark);
-  }
+
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-  body {
-    background: var(--color-normal);
-  }
+
 
   h1 {
     font-size: 4.275rem;
@@ -569,14 +559,10 @@ p {
 
   /* X-Large devices (large desktops, 1200px and up)*/
   @media (min-width: 1200px) {
-    body {
-      background: var(--color-light);
-    }
+
   }
 
   /* XX-Large devices (larger desktops, 1400px and up) */
   @media (min-width: 1400px) {
-    body {
-      background: var(--color-lightest);
-    }
+
   }
